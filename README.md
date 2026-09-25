@@ -39,7 +39,6 @@ https://github.com/aman0117-crypto/spotify-clone
 
 ## 📸 Preview
 
-> Add a screenshot of your homepage and name it **preview.png**.
 
 ![Spotify Clone Preview](preview.png)
 
